@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051167010637",
+    "project_id": "ineedfix-bf329",
+    "storage_bucket": "ineedfix-bf329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051167010637:android:8d489a5105f51f5a721104",
+        "android_client_info": {
+          "package_name": "com.dennyyeo.INeedFix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051167010637-3d0n2vr82p86k7ihcv7eldjn3tr03fbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Fr8Bu0aGr_hZc1quiCDBoysHVQTDubs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051167010637-3d0n2vr82p86k7ihcv7eldjn3tr03fbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
